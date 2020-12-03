@@ -58,7 +58,7 @@ else
 
 // Getting the typed text from the user in this function   Step 3;
 
-//function processCurrentText() { 
+function processCurrentText() { 
 
 // get current input text and split it 
 curr_input = input_area.value; 
