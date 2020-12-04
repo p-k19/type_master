@@ -5,11 +5,11 @@ let TIME_LIMIT = 60;
 let quotes_array = [ 
 "Push yourself, because no one else is going to do it for you.", 
 "There is a play in  which Prince play the role of Orlando and Shreyashi as Rosalind", 
-"Wake up with determination. Go to bed with satisfaction.", 
+"Rimjhim and Prince are two notrious child in whole classroom.", 
 "It's going to be hard, but hard does not mean impossible.", 
 "Learning never exhausts the mind.", 
 "Phoebe, realizing that the young man she loves is, in fact, a woman, agrees to marry Silvius. Hymen marries the happy couples: Orlando and Rosalind, Oliver and Celia, Phoebe and Silvius, and Touchstone and Audrey. A great wedding feast begins."
-]; 
+"Never give up, thhis is not a solution!"]; 
 
 // selecting required elements                           Step 1
 let timer_text = document.querySelector(".curr_time"); 
