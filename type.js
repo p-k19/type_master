@@ -167,7 +167,7 @@ function updateQuote() {
 					quote_text.textContent = "Click on restart to start a new game."; 
 					
 					// display restart button 
-					restart_btn.style.display = "block"; 
+					//restart_btn.style.display = "block"; 
 					
 					// calculate cpm and wpm 
 					cpm = Math.round(((characterTyped / timeElapsed) * 60)); 
