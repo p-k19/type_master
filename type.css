@@ -67,6 +67,7 @@ body {
     padding: 20px; 
     border: 0px; 
     box-shadow: black 5px 8px 5px; 
+     resize: none;
     } 
     
     .restart_btn { 
